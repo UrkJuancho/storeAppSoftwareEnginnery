@@ -1,10 +1,8 @@
 import React from 'react'
 
-const UserProfile = () => {
+function UserProfile () {
   return (
-    <div>
-      UserProfile
-    </div>
+    <div>UserProfile</div>
   )
 }
 

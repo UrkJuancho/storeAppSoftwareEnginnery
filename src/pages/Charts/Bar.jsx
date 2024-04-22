@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Bar = () => {
+function Bar () {
   return (
-    <div>
-      Bar
-    </div>
+    <div>Bar</div>
   )
 }
 

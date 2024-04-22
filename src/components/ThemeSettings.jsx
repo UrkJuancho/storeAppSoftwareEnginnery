@@ -1,10 +1,8 @@
 import React from 'react'
 
-const ThemeSettings = () => {
+function ThemeSettings () {
   return (
-    <div>
-      ThemeSetting
-    </div>
+    <div>ThemeSettings</div>
   )
 }
 

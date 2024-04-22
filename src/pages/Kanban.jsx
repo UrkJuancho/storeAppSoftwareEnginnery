@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Kanban = () => {
+function Kanban () {
   return (
-    <div>
-      Kanban
-    </div>
+    <div>Kanban</div>
   )
 }
 

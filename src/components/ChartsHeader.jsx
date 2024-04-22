@@ -1,10 +1,8 @@
 import React from 'react'
 
-const ChartsHeader = () => {
+function ChartsHeader () {
   return (
-    <div>
-      ChartHeader 
-    </div>
+    <div>ChartsHeader</div>
   )
 }
 

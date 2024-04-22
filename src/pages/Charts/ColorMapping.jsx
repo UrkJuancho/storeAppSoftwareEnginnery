@@ -1,10 +1,8 @@
 import React from 'react'
 
-const ColorMapping = () => {
+function ColorMapping () {
   return (
-    <div>
-      ColorMapping
-    </div>
+    <div>ColorMapping</div>
   )
 }
 

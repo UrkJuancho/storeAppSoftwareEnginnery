@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Pyramid = () => {
+function Pyramid () {
   return (
-    <div>
-      Pyramid
-    </div>
+    <div>Pyramid</div>
   )
 }
 

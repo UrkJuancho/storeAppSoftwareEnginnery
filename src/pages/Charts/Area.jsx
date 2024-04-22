@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Area = () => {
+function Area () {
   return (
-    <div>
-      Area
-    </div>
+    <div>Area</div>
   )
 }
 

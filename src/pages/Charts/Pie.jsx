@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Pie = () => {
+function Pie () {
   return (
-    <div>
-      Pie
-    </div>
+    <div>Pie</div>
   )
 }
 

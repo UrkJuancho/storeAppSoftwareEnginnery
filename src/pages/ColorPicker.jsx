@@ -1,10 +1,8 @@
 import React from 'react'
 
-const ColorPicker = () => {
+function ColorPicker () {
   return (
-    <div>
-      ColorPicker
-    </div>
+    <div>ColorPicker</div>
   )
 }
 

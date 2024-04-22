@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Ecommerce = () => {
+function Ecommerce () {
   return (
-    <div>
-      Ecommerce
-    </div>
+    <div>Ecommerce</div>
   )
 }
 

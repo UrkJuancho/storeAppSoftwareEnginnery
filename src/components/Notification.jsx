@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Notification = () => {
+function Notification () {
   return (
-    <div>
-      Notification
-    </div>
+    <div>Notification</div>
   )
 }
 

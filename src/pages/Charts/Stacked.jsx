@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Stacked = () => {
+function Stacked () {
   return (
-    <div>
-      Stacked
-    </div>
+    <div>Stacked</div>
   )
 }
 

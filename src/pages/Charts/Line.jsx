@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Line = () => {
+function Line () {
   return (
-    <div>
-      Line
-    </div>
+    <div>Line</div>
   )
 }
 

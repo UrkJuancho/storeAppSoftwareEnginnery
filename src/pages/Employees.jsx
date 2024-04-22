@@ -1,10 +1,8 @@
 import React from 'react'
 
-const Employees = () => {
+function Employees () {
   return (
-    <div>
-      Employees
-    </div>
+    <div>Employees</div>
   )
 }
 

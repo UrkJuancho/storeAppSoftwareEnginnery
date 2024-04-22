@@ -1,0 +1,6 @@
+npx create-react-app dashboard
+npm install --legacy-peer-deps
+https://platzi.com/tutoriales/1548-react-2019/4258-usa-los-snippets-de-emmet-para-escribir-mas-rapido-en-react/ 
+config de emmet en react
+npm start
+

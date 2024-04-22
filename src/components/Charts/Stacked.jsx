@@ -2,9 +2,7 @@ import React from 'react'
 
 const Stacked = () => {
   return (
-    <div>
-      Stacket
-    </div>
+    <div>Stacked</div>
   )
 }
 
