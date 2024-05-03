@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Footer () {
+const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>Desarrollo de Software 2024</div>
   )
 }
 

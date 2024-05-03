@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Chat () {
+const Chat = () => {
   return (
-    <div>Esto es una demo de Chat</div>
+    <div>No tienes chats abiertos</div>
   )
 }
 
